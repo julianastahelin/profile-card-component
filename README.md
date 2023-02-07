@@ -1,6 +1,5 @@
-## 
 <h1>Profile card component</h1>
-<p> This is a profile card component built as an exercise for advanced HTML and CSS practicing, proposed by the course <a href="https://devemdobro.com/matriculas-abertas/" target="_blank">DevQuest</a> by Dev em Dobro. The project is from Frontend Mentor.</p>
+<p> This is a profile card component built as an exercise for advanced HTML and CSS practicing, proposed by the course DevQuest by <a href="https://github.com/devemdobro" target="_blank">Dev em Dobro</a>. The project is based in a challenge from <a href="https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ" target="_blank">Frontend Mentor</a>.</p>
 
 
 <h2>Overview</h2>
@@ -12,7 +11,7 @@
 
 <h3>Link</h3>
 <ul>
-    <li>Live site URL: <a href="https://julianastahelin.github.io/css-my-site/">https://julianastahelin.github.io/profile-card-component/</a></li>
+    <li>Live site URL: <a href="https://julianastahelin.github.io/profile-card-component/">https://julianastahelin.github.io/profile-card-component/</a></li>
 </ul>
 
 <h2>My process</h2>
