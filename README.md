@@ -12,7 +12,7 @@
 
 <h3>Link</h3>
 <ul>
-    <li>Live site URL: <a href="https://julianastahelin.github.io/css-my-site/">https://julianastahelin.github.io/profile-card-component/</a></li>
+    <li>Live site URL: <a href="https://julianastahelin.github.io/profile-card-component/">https://julianastahelin.github.io/profile-card-component/</a></li>
 </ul>
 
 <h2>My process</h2>
