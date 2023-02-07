@@ -1,0 +1,53 @@
+body {
+    font-family: var(--font-family);
+    background-color: var(--background-color-body);
+    font-size: 11px;
+}
+
+.card-top .city, .stats h2 {
+    color: var(--text-color);
+    font-weight: 400;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.profile-card {
+    background-color: var(--background-color-card);
+    height: 320px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.card-top {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 70%;
+}
+
+.card-top img {
+    width: 85px;
+    border-radius: 50%;
+}
+
+.name-age {
+    margin: 20px 0;
+}
+
+.name-age span {
+    color: var(--text-color);
+}
+
+.card-bottom {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    height: 30%;
+}

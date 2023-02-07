@@ -1,0 +1,6 @@
+:root {
+    --text-color: hsl(227, 10%, 46%);
+    --background-color-body: hsl(185, 75%, 39%); 
+    --background-color-card: #ffffff;
+    --font-family: 'Kumbh Sans', sans-serif;
+}
